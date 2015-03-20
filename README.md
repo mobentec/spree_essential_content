@@ -1,3 +1,5 @@
+Trying to get this to work with Spree 2-4-stable
+
 # Spree Essential Content [![Build Status](https://secure.travis-ci.org/FineLineAutomation/spree_essential_content.png)](http://travis-ci.org/FineLineAutomation/spree_essential_content)
 
 Spree Essential Content is a fully featured CMS with pages, contents, images and more. It has a blog complete with archives, categories, tags and related products. base for many content related extensions for Spree. It also provides an asset-upload interface.
